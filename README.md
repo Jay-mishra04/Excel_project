@@ -214,7 +214,7 @@ The primary objective of this case study, titled "Sky Analytics: Navigating the 
 
 This project demonstrates the use of Excel data analysis and dashboard creation to explore extensive datasets from the aviation industry. The insights gained from the analysis provide valuable information on flight operations, airline performance, and airport activity. This helps in understanding the complexities of airline and airport operations and offers actionable insights for enhancing operational efficiency and customer satisfaction.
 
-Feel free to explore the Excel files and documentation provided in this repository to gain a deeper understanding of the project and replicate the results. If you have any questions or suggestions, please don't hesitate to reach out on this [email](jabcd.1997@gmail.com).
+Feel free to explore the Excel files and documentation provided in this repository to gain a deeper understanding of the project and replicate the results. If you have any questions or suggestions, please don't hesitate to reach out on this email  **jabcd.1997@gmail.com**.
 
 Happy Exploring!
 
