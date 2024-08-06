@@ -205,7 +205,7 @@ The primary objective of this case study, titled "Sky Analytics: Navigating the 
     - Most of the Airtport operates in Afternoon and morning.
    
 19. **Dashboard 1:**
-    ![Dashboard](Images/d1.png)
+    ![Dashboard](Images/d.png)
 
 21. **Dashboard 2:**
     ![Dashboard](Images/d2.png)
