@@ -208,7 +208,7 @@ The primary objective of this case study, titled "Sky Analytics: Navigating the 
     ![Dashboard](Images/d.png)
 
 21. **Dashboard 2:**
-    ![Dashboard](Images/d2.png)
+    ![Dashboard](Images/d3.png)
 
 ## Conclusion
 
